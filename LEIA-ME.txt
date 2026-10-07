@@ -1,0 +1,8 @@
+SITE DANIELE DOWER
+
+Extraia todos os arquivos mantendo a pasta assets junto ao index.html.
+O site utiliza HTML, CSS e JavaScript e não requer instalação ou compilação.
+
+FORMULÁRIO
+O destinatário do FormSubmit ainda precisa ser configurado em config.js, no campo formSubmitRecipient, com o e-mail autorizado da profissional.
+O WhatsApp já está configurado.
